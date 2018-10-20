@@ -1,5 +1,5 @@
 _repo: Les-Indes-Noires_5081
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -38,5 +38,6 @@ subjects:
 - !lcsh 'Fantasy fiction, French'
 - !lcsh 'Imaginary places'
 - !lcsh 'Scotland -- Fiction'
+- GITenberg
 title: Les Indes Noires
 url: http://www.gutenberg.org/ebooks/5081
